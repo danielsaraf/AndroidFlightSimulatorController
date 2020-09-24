@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" >Flight Mobile App</string>
+    <string name="enter_url_here">" Enter Url Here"</string>
+    <string name="rudder_initial_value">"rudder: 0.0"</string>
+    <string name="throttle_initial_value">"throttle: 0.0"</string>
+    <string name="aileron_initial_value">"aileron: 0.00"</string>
+    <string name="elevator_initial_value">"elevator: 0.00"</string>
+    <string name="history">History</string>
+    <string name="connect">Connect</string>
+    <string name="todo">TODO</string>
+</resources>
